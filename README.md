@@ -1,22 +1,22 @@
-###AlgorithmsArena
-Instagram: @algorithm.arena
+#AlgorithmsArena
+Instagram: https://www.instagram.com/algorithm.arena/
 ```markdown
 # Instagram Coding Question Bot
 
-This Python script generates coding questions and posts them on Instagram. It uses the OpenAI API to generate questions and the Instabot library to post them on an Instagram account.
+This Python script generates coding questions and posts them on Instagram every 24 hours. It uses the OpenAI API to generate questions and the Instabot library to post them on an Instagram account.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instagram-coding-bot.git
+   git clone https://github.com/mayank-bharwal/AlgorithmArena.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd instagram-coding-bot
+   cd AlgorithmArena
    ```
 
 3. Install the required dependencies:
