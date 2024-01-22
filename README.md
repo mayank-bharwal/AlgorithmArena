@@ -1,7 +1,9 @@
-AlgorithmsArena
-
+# AlgorithmArena - Instagram Bot
 
 Instagram: https://www.instagram.com/algorithm.arena/
+
+![Screenshot 2024-01-22 at 1 52 24 AM](https://github.com/mayank-bharwal/AlgorithmArena/assets/119955673/0f6e4642-8f2d-4652-bc79-1f3fe29f3691)
+
 ```markdown
 # Instagram Coding Question Bot
 
@@ -45,6 +47,7 @@ This Python script generates coding questions and posts them on Instagram every 
 
    ```bash
    python instagram_coding_bot.py
+
    ```
 
    This will start the bot, which will generate coding questions and post them on Instagram at regular intervals.
