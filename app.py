@@ -50,7 +50,7 @@ def create_social_media_image(question, filename="coding_question.png"):
 
 # Login to Instagram
 #bot = Bot()
-#bot.login(username="algorithmarena", password="mayank29")
+#bot.login(username="algorithm.arena", password="#####")
 
 while True:
     question = generate_coding_question("Create a unique and interesting coding question in python for a computer science student at an easy to medium difficulty level:")
